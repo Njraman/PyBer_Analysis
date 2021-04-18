@@ -4,7 +4,7 @@
 
 The purpose of this project is to analyze and visualize data for Pyber, a ridesharing app company to study the relationship between the type of city and the number of drivers, riders and total fares by city type. The analysis would provide key information to Pyber to determine access and affordability of ridesharing services in different areas. 
 
-Here we are creating a summary dataframe of the ride sharing data by city type and calculating the total weekly fares by city type.
+Here we are creating a summary dataframe of the ride sharing data by city type and calculating and representing the total weekly fares by city type. The code for the analysis can be accessed here: [PyBer_Challenge.ipynb](PyBer_Challenge.ipynb).
 
 
 ## **Results:**
@@ -13,7 +13,7 @@ Here we are creating a summary dataframe of the ride sharing data by city type a
 
 First, we begin by creating a summary dataframe of the ride sharing data by city type. The same can be seen below:
 
- ![Pyber_summary_df](Resources/Pyber_summary_df.png)
+ ![Pyber_summary_df](analysis/Pyber_summary_df.png)
 
 - It can be seen that urban cities have the maximum number of rides, drivers and total fares, while the rural areas have the least.
 - The Average fare per ride and the average fare per driver is highest in the rural areas and least in the urban areas.
