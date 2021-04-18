@@ -17,7 +17,8 @@ First, we begin by creating a summary dataframe of the ride sharing data by city
 
 - It can be seen that urban cities have the maximum number of rides, drivers and total fares, while the rural areas have the least.
 - The Average fare per ride and the average fare per driver is highest in the rural areas and least in the urban areas.
-- The difference in the parameters: Total Rides, Total Drivers, Total Fares and average fare per driver are all pretty signigicant between each city type.
+- The Total fares is highest in the Urban cities and lowest for Rural areas.
+- The differences in the parameters: Total Rides, Total Drivers, Total Fares and average fare per driver are all pretty signigicant between each city type.
 
 ### __Total weekly fare by City Type:__
 
