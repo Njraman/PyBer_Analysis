@@ -40,11 +40,9 @@ The following line chart indicates the total weekly fares by city type for the p
 
 The following recommendations can be made to address the disparities in the ride sharing data among the different city types:
 
--  The number of drivers is significantly less in the rural areas. Increasing the drivers in the rural areas may lead to the greater availability of ridesharing services and may therefore lead to more riders and increased revenue from Rural areas.
-
 - The urban areas have more drivers than riders - a surplus of drivers. It seems to indicate that there is more supply than demand leading a very low average fare per driver. Pyber may need to limit the number of drivers in the urban cities to what is required to cater to the demand there and redirect their resources to the rural areas. This will in turn cut costs and generate more revenue from Rural areas.
 
-- The Average fare per ride is quite high in the rural areas, which may affect demand. The fares may need to be corrected to increase affordability of rural consumers.
+- The Average fare per ride is quite high in the rural areas, which may affect demand. The fares may need to be reduced to increase affordability for rural consumers.This may lead to higher demand and increased revenue from rural areas.
 
-- The pattern for weekly Total fares in the suburban areas indicate a flat curve with significant spikes at certain times. This pattern can be studied to see if it repeats itself every year. This may indicate seasonal increases in demand in the suburban cities. The allocation of drivers can be planned according to that, to maximize revenue based on seasonal trends.
+- The pattern for weekly Total fares in the suburban areas is flat with significant spikes at certain times. This pattern can be studied to see if it repeats itself seasonally. This may indicate seasonal increases in demand in the suburban cities. The allocation of drivers can be planned according to that, to maximize revenue based on seasonal trends.
 
